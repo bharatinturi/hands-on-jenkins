@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello World1" > /var/lib/jenkins/workspace/test/section_2/code/bharat
+echo "Hello World1" >> /home/centos/bharat
 pwd
