@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World2" >> /home/centos/test
+sudo bash -c "echo "Hello World2" >> /home/centos/test"
