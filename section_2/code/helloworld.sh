@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello World" 
+echo "Hello World1" >> /home/centos/bharat
 pwd
