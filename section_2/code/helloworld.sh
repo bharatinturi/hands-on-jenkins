@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello World1" >> /home/centos/bharat
+sudo echo "Hello World1" >> /home/root/new
 pwd
 whoami
